@@ -53,8 +53,16 @@
 	padding: 10px;
 }
 
+.listas-uno {
+	padding: 10px;
+}
+
 .listas {
 	padding: 5px;
+}
+
+.listas {
+	list-style: none;
 }
 
 .footer {
